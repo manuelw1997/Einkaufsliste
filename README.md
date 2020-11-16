@@ -1,5 +1,7 @@
 # Lebenslauf
 
+![Alt-Text](./bauer.jpg)
+
 <p> Das ist ein kurzer Lebenslauf für das OpenSource-Praktikum </p>
 <br>
 
